@@ -9,4 +9,4 @@ Supported features:
 
 3 - Resizing shapes. 
 
-3 - Copying, saving and loading shapes (from and to a JSON file).
+4 - Copying, saving and loading shapes (from and to a JSON file).
