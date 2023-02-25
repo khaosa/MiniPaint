@@ -1,12 +1,17 @@
 # MiniPaint
-A mini-paint application using Java Swing and AWT Graphics 
+A mini-paint application using Java Swing and AWT Graphics. 
 
-Supported features: 
+## Supported features: 
 
-1 - Drawing and colorizing shapes with the help of the GUI (Oval, Line, Triangle, or Rectangle).
+1 - Drawing geometric shapes with the help of the GUI. (Oval - Line - Triangle - Rectangle).
 
-2 - Dragging and dropping shapes.
+2 - Modifying shapes   
 
-3 - Resizing shapes. 
+ - Delete
+ - Drag and drop
+ - Color
+ - Border color (Stroke)
+ - Copy
+ - Resize
 
-4 - Copying, saving and loading shapes (from and to a JSON file).
+3 - Saving and loading the user's progress to and from a JSON file.
