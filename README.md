@@ -1,5 +1,5 @@
 # MiniPaint
-A mini-paint application using Java Swing and AWT Graphics. 
+A mini-paint application using Java Swing and AWT Graphics. The aim of the project is to design an object-oriented model for each geometric shape.
 
 ## Supported features: 
 
